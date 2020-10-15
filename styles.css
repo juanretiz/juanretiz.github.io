@@ -1,0 +1,50 @@
+body {
+  background: #eeeeee;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #00adb5;
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+a {
+  text-align: right;
+}
+
+nav {
+  text-align: center; 
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #00adb5;
+}
+
+td {
+  background-color: #8d93ab;
+}
+
+.center {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+ }
+
+.no-margin {
+  text-align: center;
+  margin: 0;
+  background-color: #393e46
+}
